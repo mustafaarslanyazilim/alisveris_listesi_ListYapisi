@@ -1,6 +1,6 @@
 # basit_todo_textfield_one_screen -- ALIŞVERİŞ LİSTESİ
 -------------------------------------------------------------
-***listVİev
+***listView
 ---TextField
 ---Flexible
 ------------------------------------------------------------
